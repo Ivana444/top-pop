@@ -1,0 +1,11 @@
+.songchart
+{
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+th,td 
+{
+    padding: 0.5em;
+}
+
